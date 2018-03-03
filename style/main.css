@@ -346,10 +346,10 @@ hr {
  backround-size:100%;}
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background: url('../5.jpg'); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: url('../6.jpg'); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
